@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1592459500806,
+  "index": "http://numyaweehobby.github.io/xxxlist/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "http://numyaweehobby.github.io/xxxlist/favicon.ico",
+        "http://numyaweehobby.github.io/xxxlist/index.html",
+        "http://numyaweehobby.github.io/xxxlist/main-es2015.162587a85ff64d4e6c50.js",
+        "http://numyaweehobby.github.io/xxxlist/main-es5.162587a85ff64d4e6c50.js",
+        "http://numyaweehobby.github.io/xxxlist/polyfills-es2015.1e79bc0ab0055bcd170f.js",
+        "http://numyaweehobby.github.io/xxxlist/polyfills-es5.7af52e3d3cb492f75ba5.js",
+        "http://numyaweehobby.github.io/xxxlist/runtime-es2015.0811dcefd377500b5b1a.js",
+        "http://numyaweehobby.github.io/xxxlist/runtime-es5.0811dcefd377500b5b1a.js",
+        "http://numyaweehobby.github.io/xxxlist/scripts.bd4082f086e583295839.js",
+        "http://numyaweehobby.github.io/xxxlist/styles.b1c1fe34307719055fdb.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "http://numyaweehobby.github.io/xxxlist/assets/css/hamburgers.css",
+        "http://numyaweehobby.github.io/xxxlist/assets/css/jquery.mCustomScrollbar.css",
+        "http://numyaweehobby.github.io/xxxlist/assets/css/scrollbar.css",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-128x128.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-144x144.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-152x152.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-192x192.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-384x384.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-512x512.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-72x72.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-96x96.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/7057ad329e8b094.jpg",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/avatar_2x.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/document-tracker.jpg",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/hint-img.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/index-and-full-text-searching-documents.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/lgBackgroundImg.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/mCSB_buttons.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/menu/mastermenugroup.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/rain.png",
+        "http://numyaweehobby.github.io/xxxlist/assets/images/selectbranch.jpg",
+        "http://numyaweehobby.github.io/xxxlist/assets/js/ghostscript.js",
+        "http://numyaweehobby.github.io/xxxlist/assets/js/jquery.mCustomScrollbar.concat.min.js",
+        "http://numyaweehobby.github.io/xxxlist/assets/song.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "http://numyaweehobby.github.io/xxxlist/assets/css/hamburgers.css": "5c030752dd1e6d48cea02a70c643f8ed991feef4",
+    "http://numyaweehobby.github.io/xxxlist/assets/css/jquery.mCustomScrollbar.css": "231540d39d9a273f9752c1566363a9b516c67c58",
+    "http://numyaweehobby.github.io/xxxlist/assets/css/scrollbar.css": "b09365466a543a0234f176d0a46c22924fa72c17",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "http://numyaweehobby.github.io/xxxlist/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/7057ad329e8b094.jpg": "2dd934c8b63f5a96fb21da6e7b0da723bf7175b8",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/avatar_2x.png": "2b2394121d8e3e6526f1b6f686e49d61023a0c3f",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/document-tracker.jpg": "32531247b66084ec7528f174d8fd0dd00486678a",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/hint-img.png": "290b54ecbd3ac1246245cb120617c09da54ab6e4",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/index-and-full-text-searching-documents.png": "9c634a295979de5f8f16b181d5b375ceaa472e38",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/lgBackgroundImg.png": "dd4fc45d66fe2711c4d8ca639a14388149ea0e2f",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/mCSB_buttons.png": "5f8baeae37b80980c7a1e88b206375da55947ce2",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/menu/mastermenugroup.png": "1da6aae593be13990fee6729e7bdfd17378637a1",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/rain.png": "b5731c31ae1af0b615a995fec2da1addaeecbf71",
+    "http://numyaweehobby.github.io/xxxlist/assets/images/selectbranch.jpg": "5a160753b5b843983ad64f606130318335cd58de",
+    "http://numyaweehobby.github.io/xxxlist/assets/js/ghostscript.js": "73eaca9fa059a40cf96e58aabf7e0ba33ec7fcbf",
+    "http://numyaweehobby.github.io/xxxlist/assets/js/jquery.mCustomScrollbar.concat.min.js": "e6ac207cdb6c4591f2d39f2a645f6dbf42534f89",
+    "http://numyaweehobby.github.io/xxxlist/assets/song.json": "1029cf7de3709a98768ee4940ff36c21889769f2",
+    "http://numyaweehobby.github.io/xxxlist/favicon.ico": "26b5e788e8a98255f3f4d24de1c81df12b150452",
+    "http://numyaweehobby.github.io/xxxlist/index.html": "f8258eaf97bab11770d72d48105ada93e2ebfba3",
+    "http://numyaweehobby.github.io/xxxlist/main-es2015.162587a85ff64d4e6c50.js": "77a219fb9a75e646f6522eb6ed7dfccc56d38eba",
+    "http://numyaweehobby.github.io/xxxlist/main-es5.162587a85ff64d4e6c50.js": "715cade7f2e3bd566899e1aa225dd40ab219a4ca",
+    "http://numyaweehobby.github.io/xxxlist/polyfills-es2015.1e79bc0ab0055bcd170f.js": "3f4f6f4509666a74504d0454853b7d5945b200f3",
+    "http://numyaweehobby.github.io/xxxlist/polyfills-es5.7af52e3d3cb492f75ba5.js": "fc47b1bfc383a2dbfc4801543eae50f945ed82a5",
+    "http://numyaweehobby.github.io/xxxlist/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "http://numyaweehobby.github.io/xxxlist/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "http://numyaweehobby.github.io/xxxlist/scripts.bd4082f086e583295839.js": "8a0a8c113668f3d56b31bb75be3d1839b20f35ea",
+    "http://numyaweehobby.github.io/xxxlist/styles.b1c1fe34307719055fdb.css": "682eda1cb6d8f0f034cc4017cf5d1f10e4c3287d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
