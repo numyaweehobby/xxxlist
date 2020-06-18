@@ -1,0 +1,80 @@
+<div class="mainbg" style="padding: 20px;">
+  <div style="position: fixed;top: 0px;width: 93%;z-index: 999; padding: 10px; background-color: gray;margin-top: 10px;">
+    <button type="button" class="btn btn-primary btn-sm" (click)="Add()">ADD</button>
+    <br>
+    <div class="row" style="margin-top: 15px;">
+      <div class="col-xl-11 col-lg-12 col-md-12 col-sm-12 col-12 input-group mb-3 inputWithIconSearch">
+        <div class="input-group-prepend ">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="text" [formControl]="searchField" class="form-control" placeholder="Search" />
+      </div>
+    </div>
+  </div>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <div class="row" *ngFor="let item of this.pornlistFilter" style="padding: 20px;">
+    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-3 mb-3">
+      <a href="{{item.url}}" target="_blank">
+        <img src="{{item.image}}" height="100" width="100%" onError="this.src='assets/images/hint-img.png'">
+      </a>
+    </div>
+
+    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8 mb-8">
+      <div class="row">
+        {{item.title}}
+      </div>
+
+      <div class="row" style="font-size: 12px;color: gray;">
+        {{item.description}}
+      </div>
+    </div>
+
+    <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 mb-1">
+      <button type="button" pButton icon="fa fa-ban" iconPos="left" label="Del"
+        class="gridbuttonheader ui-button-danger" (click)="Del(item)"></button>
+    </div>
+
+
+  </div>
+</div>
+
+<br />
+
+<p-dialog #popupsearch [(visible)]="displaypopuup" [modal]="true" [responsive]="true" [autoZIndex]="false">
+  <p-header>
+    Manage <p *ngIf="this._error != ''">{{this._error}}</p>
+  </p-header>
+
+  <div class="container">
+    <br />
+    <div class="form-group row form-row">
+      <label class="col-md-1 col-form-label form-control-sm form-label">link</label>
+      <div class="col-md-11">
+        <input NextTab type="text" class="form-control form-control-sm" [(ngModel)]="_link">
+      </div>
+    </div>
+
+    <div class="row top-buffer" style="margin-bottom:10px;">
+      <div class="col-6">
+      </div>
+      <div class="col-6">
+        <button type="button" pButton label="Cancel" (click)="displaypopuup = false"
+          style="float:right;margin-left: 10px;"></button>
+        <button type="button" pButton label="Ok" (click)="SaveSong()" style="float:right;"></button>
+      </div>
+    </div>
+  </div>
+</p-dialog>
+
+<ngx-spinner bdColor="rgba(51,51,51,0.5)" class="myspiner" size="mediem" color="#fff"
+  type={{this.apphelper.spinconfig.type}}>
+  <p style="font-size: 15px; color: white !important;">{{this.apphelper.spinconfig.message}}</p>
+</ngx-spinner>
+
+<p-confirmDialog header="Confirmation"></p-confirmDialog>

@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1589903644895,
+  "index": "/xxxlist/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/xxxlist/favicon.ico",
+        "/xxxlist/index.html",
+        "/xxxlist/main-es2015.9864a4923eaf39d51699.js",
+        "/xxxlist/main-es5.9864a4923eaf39d51699.js",
+        "/xxxlist/polyfills-es2015.1e79bc0ab0055bcd170f.js",
+        "/xxxlist/polyfills-es5.90b16f612c9c66298478.js",
+        "/xxxlist/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/xxxlist/runtime-es5.0811dcefd377500b5b1a.js",
+        "/xxxlist/scripts.bd4082f086e583295839.js",
+        "/xxxlist/styles.e470dd8cb375073b80fe.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/xxxlist/assets/css/hamburgers.css",
+        "/xxxlist/assets/css/jquery.mCustomScrollbar.css",
+        "/xxxlist/assets/css/scrollbar.css",
+        "/xxxlist/assets/icons/icon-128x128.png",
+        "/xxxlist/assets/icons/icon-144x144.png",
+        "/xxxlist/assets/icons/icon-152x152.png",
+        "/xxxlist/assets/icons/icon-192x192.png",
+        "/xxxlist/assets/icons/icon-384x384.png",
+        "/xxxlist/assets/icons/icon-512x512.png",
+        "/xxxlist/assets/icons/icon-72x72.png",
+        "/xxxlist/assets/icons/icon-96x96.png",
+        "/xxxlist/assets/images/7057ad329e8b094.jpg",
+        "/xxxlist/assets/images/avatar_2x.png",
+        "/xxxlist/assets/images/document-tracker.jpg",
+        "/xxxlist/assets/images/hint-img.png",
+        "/xxxlist/assets/images/index-and-full-text-searching-documents.png",
+        "/xxxlist/assets/images/lgBackgroundImg.png",
+        "/xxxlist/assets/images/mCSB_buttons.png",
+        "/xxxlist/assets/images/menu/mastermenugroup.png",
+        "/xxxlist/assets/images/rain.png",
+        "/xxxlist/assets/images/selectbranch.jpg",
+        "/xxxlist/assets/js/ghostscript.js",
+        "/xxxlist/assets/js/jquery.mCustomScrollbar.concat.min.js",
+        "/xxxlist/assets/song.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/xxxlist/assets/css/hamburgers.css": "5c030752dd1e6d48cea02a70c643f8ed991feef4",
+    "/xxxlist/assets/css/jquery.mCustomScrollbar.css": "231540d39d9a273f9752c1566363a9b516c67c58",
+    "/xxxlist/assets/css/scrollbar.css": "b09365466a543a0234f176d0a46c22924fa72c17",
+    "/xxxlist/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/xxxlist/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/xxxlist/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/xxxlist/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/xxxlist/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/xxxlist/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/xxxlist/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/xxxlist/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/xxxlist/assets/images/7057ad329e8b094.jpg": "2dd934c8b63f5a96fb21da6e7b0da723bf7175b8",
+    "/xxxlist/assets/images/avatar_2x.png": "2b2394121d8e3e6526f1b6f686e49d61023a0c3f",
+    "/xxxlist/assets/images/document-tracker.jpg": "32531247b66084ec7528f174d8fd0dd00486678a",
+    "/xxxlist/assets/images/hint-img.png": "290b54ecbd3ac1246245cb120617c09da54ab6e4",
+    "/xxxlist/assets/images/index-and-full-text-searching-documents.png": "9c634a295979de5f8f16b181d5b375ceaa472e38",
+    "/xxxlist/assets/images/lgBackgroundImg.png": "dd4fc45d66fe2711c4d8ca639a14388149ea0e2f",
+    "/xxxlist/assets/images/mCSB_buttons.png": "5f8baeae37b80980c7a1e88b206375da55947ce2",
+    "/xxxlist/assets/images/menu/mastermenugroup.png": "1da6aae593be13990fee6729e7bdfd17378637a1",
+    "/xxxlist/assets/images/rain.png": "b5731c31ae1af0b615a995fec2da1addaeecbf71",
+    "/xxxlist/assets/images/selectbranch.jpg": "5a160753b5b843983ad64f606130318335cd58de",
+    "/xxxlist/assets/js/ghostscript.js": "73eaca9fa059a40cf96e58aabf7e0ba33ec7fcbf",
+    "/xxxlist/assets/js/jquery.mCustomScrollbar.concat.min.js": "e6ac207cdb6c4591f2d39f2a645f6dbf42534f89",
+    "/xxxlist/assets/song.json": "1029cf7de3709a98768ee4940ff36c21889769f2",
+    "/xxxlist/favicon.ico": "26b5e788e8a98255f3f4d24de1c81df12b150452",
+    "/xxxlist/index.html": "8120ba39750215e44cadf04207a76febcd0335a0",
+    "/xxxlist/main-es2015.9864a4923eaf39d51699.js": "77a219fb9a75e646f6522eb6ed7dfccc56d38eba",
+    "/xxxlist/main-es5.9864a4923eaf39d51699.js": "715cade7f2e3bd566899e1aa225dd40ab219a4ca",
+    "/xxxlist/polyfills-es2015.1e79bc0ab0055bcd170f.js": "3f4f6f4509666a74504d0454853b7d5945b200f3",
+    "/xxxlist/polyfills-es5.90b16f612c9c66298478.js": "fc47b1bfc383a2dbfc4801543eae50f945ed82a5",
+    "/xxxlist/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/xxxlist/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/xxxlist/scripts.bd4082f086e583295839.js": "8a0a8c113668f3d56b31bb75be3d1839b20f35ea",
+    "/xxxlist/styles.e470dd8cb375073b80fe.css": "682eda1cb6d8f0f034cc4017cf5d1f10e4c3287d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
